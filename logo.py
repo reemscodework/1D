@@ -17,6 +17,9 @@ t.forward(70)
 t.circle(100,180) 
 t.forward(70)
 
+# F
+
+t.color("purple")
 t.right(180)
 t.forward(170)
 t.right(180)
