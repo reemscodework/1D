@@ -58,7 +58,7 @@ def draw_y(x,y):
     t.forward(50)
 
     t.left(45)
-    t.forward(15)
+    t.forward(30)
 
     t.left(135)
     t.forward(60)
@@ -76,7 +76,7 @@ def draw_y(x,y):
     t.forward(60)
 
     t.left(135)
-    t.forward(15)
+    t.forward(30)
 
     t.left(45)
     t.forward(50)
