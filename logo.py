@@ -69,6 +69,6 @@ t.speed(10)
 p=t.circle(250, extent = 495)
 
 t.write('made with turtle.py')
-t.isvisible()
+t.hideturtle()
 
 input()
