@@ -60,7 +60,6 @@ def head():
     t.end_fill()
     
 
-    #nose idk why it works
     t.penup()
     t.goto(500,275)
     t.pendown()
